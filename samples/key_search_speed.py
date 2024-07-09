@@ -2,7 +2,7 @@
 ## Example code: key_search_speed.py
 ## Author: Allen Y. Yang
 ##
-## (c) Copyright 2020. Intelligent Racing Inc. Not permitted for commercial use
+## (c) Copyright 2020-2024. Intelligent Racing Inc. Not permitted for commercial use
 
 import os
 import random
