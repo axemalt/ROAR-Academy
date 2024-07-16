@@ -12,5 +12,6 @@ plt.title("Sample graph!")
 plt.xlabel("x - axis")
 plt.ylabel("y - axis")
 
-plt.yticks
+plt.tick_params(left=True, top=True)
+
 plt.show()
